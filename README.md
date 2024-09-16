@@ -48,3 +48,5 @@ docker run --name kib01-test --net elastic \
 verify elasticSearch by running this command in terminal: `curl -X GET "127.0.0.1:9200/"`.
 verify elasticSearch by opening : `http://127.0.0.1:9200` in chrome.
 verify kibana by opening : `http://127.0.0.1:5601` in chrome.
+
+Walkthrough video is here: https://youtu.be/mAmmaWlpLO0
